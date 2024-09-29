@@ -1,6 +1,6 @@
 {
-  "commit": "5f6a88320da27c4d284996d498842939ad1d8d19",
-  "generated": "Sun, 11 Feb 2024 21:48:22 GMT",
+  "commit": "d164819e9dad435410707d379bdda074f40eda64",
+  "generated": "2024-09-29T15:21:13.543Z",
   "metadata": [
     {
       "__outstatic": {
@@ -179,6 +179,24 @@
         }
       ],
       "title": "Far Out - The Next Steps for Outstatic "
+    },
+    {
+      "__outstatic": {
+        "commit": "d164819e9dad435410707d379bdda074f40eda64",
+        "hash": "3744676827",
+        "path": "outstatic/content/pages/test.md"
+      },
+      "author": {
+        "name": "Nguyễn Thành Nam",
+        "picture": "https://avatars.githubusercontent.com/u/78526193?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-09-29T16:02:49.166Z",
+      "slug": "test",
+      "status": "draft",
+      "title": "test"
     }
   ]
 }
